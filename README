@@ -1,4 +1,24 @@
 "BOOKSTORE project"
 
-The project initially takes input from user the book's name, author, year and isbn and adds it to the sqlite database
-User can also delete and make changes to the books added
+The project initially takes input from user the book's name, author, year and isbn and adds it to the sqlite database. User can also delete and make changes to the books added
+
+Bookstore v1
+Viewing all the books in database:
+	To view all the items in the database you need to press the view all button the program won't display items when it is executed. If you see no items this means
+	there are none in the database
+
+Searching:
+	To search for any item u need to specify one or all of the following either title, year, author and isbn. Press search entry to see if the book is present.
+
+Adding new books:
+	For adding books u need to specify the title author year and isbn and press the Add Entry button
+
+Making changes to the already added book:
+	To make changes to the alreay added book you need to select the item you want to make the changes to and change the required entry then press Update
+
+Deleting a book:
+	Simpy select any item and press delete
+
+Note: To see your changes you will need to press the View All button again. The software may have bugs
+
+:)
