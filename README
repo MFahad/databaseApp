@@ -1,0 +1,4 @@
+"BOOKSTORE project"
+
+The project initially takes input from user the book's name, author, year and isbn and adds it to the sqlite database
+User can also delete and make changes to the books added
